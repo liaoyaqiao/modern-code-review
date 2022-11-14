@@ -35,7 +35,7 @@ int main() {
     else
       game[i][j] = 'O';
     if (isWin(game)) {
-      cout << "Win!" << endl;//哈哈
+      cout << "Win!" << endl;//哈哈dsf
       break; // need to terminate the problem
     }
   }
